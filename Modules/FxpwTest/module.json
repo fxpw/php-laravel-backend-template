@@ -1,0 +1,11 @@
+{
+    "name": "FxpwTest",
+    "alias": "fxpwtest",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FxpwTest\\Providers\\FxpwTestServiceProvider"
+    ],
+    "files": []
+}
